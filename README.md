@@ -8,4 +8,3 @@ CAT is based on [Indico](https://getindico.io/) and currently consists of two ob
 - PURR - the [Proceedings Utility Running Remotely](https://github.com/JACoW-org/PURR) is an Indico plugin calling MEOW (and exposing its APIs to it as well). Documentation available at https://purr-docs.jacow.org.
 - MEOW - the [Machine Editor for cOnferences Website](https://github.com/JACoW-org/MEOW) is a Web application that does the hard work on behalf of PURR. Documentation available at https://meow-docs.jacow.org.
 
-Installation documentation is available at https://cat-docs.jacow.org.
